@@ -13,7 +13,7 @@ To install Automation Anywhere, ensure your system meets the following requireme
 ## Design and Implementation
 
 ### Flow Diagram
-![Flow diagram](images/FlowDiagram.png)
+<img src="images/FlowDiagram.png" alt="Flow Diagram" width="60%" style="background-color:red;">
 
 ### Implementation
 Our chatbot is designed to operate on Discord, a popular chatting platform. Below are the steps to create and deploy the bot:
